@@ -89,6 +89,9 @@ form button{
 form button:hover{
     background-color: #c75d3a;
 }
+#swap-icon{
+    cursor: pointer;
+}
 @media(max-width:480px){
     #heading{
         font-size: 25px;
